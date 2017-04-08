@@ -7,4 +7,4 @@
 2017-03-26 16:27:43,821 INFO  [[FirefoxDriver: firefox on WINDOWS (3ee36d22-a419-41db-a8b6-be4aa21e6265)] -> xpath: .//*[@id='r1']/ul/li[5]/table/tbody/tr/td[2]] is clicked. 
 2017-03-26 16:27:43,946 INFO  [[FirefoxDriver: firefox on WINDOWS (3ee36d22-a419-41db-a8b6-be4aa21e6265)] -> xpath: .//*[@id='m09']/ul/li[1]/div[1]] is clicked. 
 2017-03-26 16:27:44,071 INFO  [[FirefoxDriver: firefox on WINDOWS (3ee36d22-a419-41db-a8b6-be4aa21e6265)] -> xpath: .//*[@id='m09']/ul/li[1]/div[2]/ul/li[4]/span] is clicked. 
-tesdfdfabcd
+tes
